@@ -1,3 +1,11 @@
+# ASVSI OpenZeppelin Security Notes
+
+This repository is a fork of OpenZeppelin Contracts,
+augmented with security annotations, audit notes, and
+attack-prevention explanations by ASVSI.
+
+⚠️ This is NOT an official OpenZeppelin repository.
+
 # <img src="logo.svg" alt="OpenZeppelin" height="40px">
 
 [![Github Release](https://img.shields.io/github/v/tag/OpenZeppelin/openzeppelin-contracts.svg?filter=v*&sort=semver&label=github)](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/latest)
