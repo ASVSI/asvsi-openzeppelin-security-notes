@@ -5,7 +5,9 @@ augmented with security annotations, audit notes, and
 attack-prevention explanations by ASVSI.
 
 ⚠️ This is NOT an official OpenZeppelin repository.
+
 ---
+
 
 # <img src="logo.svg" alt="OpenZeppelin" height="40px">
 
